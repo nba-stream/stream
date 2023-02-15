@@ -9,3 +9,14 @@ $('a').mouseleave(function(){
 $('button').click(function(){
     $(this).addClass('bg-danger')
 })
+
+
+$('button').mouseenter(function(){
+    $(this).removeClass('bg-secondary')
+    $(this).addClass('bg-primary')
+})
+
+$('button').mouseleave(function(){
+    $(this).addClass('bg-secondary')
+    $(this).removeClass('bg-primary')
+})
