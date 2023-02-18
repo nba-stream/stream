@@ -61,9 +61,9 @@
   <body>
     <nav class="bg-primary fixed-top">
       <ul>
-        <li class="line"><a href="#">NHL</a></li>
+        <li><a href="./index.html">NHL</a></li>
         <li ><a href="./nba.html">NBA</a></li>
-        <li ><a href="./mlb.html">MLB</a></li>
+        <li  class="line"><a href="#">MLB</a></li>
         <li><a href="./ncaab.html">NCAAB </a></li>
       </ul>
     </nav>
@@ -73,35 +73,17 @@
     <script>
       let display = document.querySelector(".container-fluid");
       let i;
-      for (i = 1; i <= 15; i++) {
+      for (i = 1; i <= 20; i++) {
         display.innerHTML += `
             <div class="card ">
-            <button class="copybtn bg-secondary" onclick="copy(${i})">NHL${i}</button>
+            <button class="copybtn bg-secondary" onclick="copy(${i})">MLB${i}</button>
         </div>
         <br>`;
 
         function copy(cid) {
-          let url = "http://www.cr7streams.ml/p/nhl" + cid + "_26.html";
+          let url = "http://www.cr7streams.ml/p/mlbb" + cid + "_26.html";
 
-          if (url === "http://www.cr7streams.ml/p/nhl7_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl7.html";
-          }
 
-          if (url === "http://www.cr7streams.ml/p/nhl12_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl12_11.html";
-          }
-
-          if (url === "http://www.cr7streams.ml/p/nhl13_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl13_11.html";
-          }
-
-          if (url === "http://www.cr7streams.ml/p/nhl14_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl14_11.html";
-          }
-
-          if (url === "http://www.cr7streams.ml/p/nhl15_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl15_11.html";
-          }
 
           navigator.clipboard.writeText(url);
         }
