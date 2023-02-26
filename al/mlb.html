@@ -74,14 +74,17 @@
       let i;
       for (i = 1; i <= 20; i++) {
         display.innerHTML += `
-            <div class="card ">
+            <div class="card "  id="dis${i}">
             <button class="copybtn bg-secondary" onclick="copy(${i})">MLB${i}</button>
         </div>
         <br>`;
+        $('#dis1').hide()
+        
 
         function copy(cid) {
           let url = "http://www.cr8soccer.ml/p/mlb" + cid + ".html";
 
+        
 
 
           navigator.clipboard.writeText(url);

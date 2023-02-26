@@ -2,10 +2,12 @@ let display = document.querySelector(".container-fluid");
 let i;
 for (i = 1; i <= 56; i++) {
     display.innerHTML += `
-      <div class="card ">
+      <div class="card " id="dis${i}">
       <button class="copybtn bg-secondary" onclick="copy(${i})">NCAAB${i}</button>
   </div>
   <br>`;
+
+  $('#dis3 , #dis12').hide()
 
     function copy(cid) {
         let url = 'http://www.cr8soccer.ml/p/ncaab' + cid + '.html'
