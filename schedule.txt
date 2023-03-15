@@ -4,42 +4,42 @@
 UEFA-YOUTH-LEAGUE      : AZ U19 vs Real Madrid U19                 | http://www.nbastream.ga/p/soccer1.html
 UEFA-YOUTH-LEAGUE      : Borussia Dortmund U19 vs Hajduk Split U19 | http://www.nbastream.ga/p/soccer3_15.html
 UEFA-CONFERENCE-LEAGUE : Istanbul Basaksehir vs Gent               | http://www.nbastream.ga/p/soccer2.html
-PREMIER-LEAGUE         : Southampton vs Brentford	                 | http://www.nbastream.ga/p/soccer4.html
+PREMIER-LEAGUE         : Southampton vs Brentford                  | http://www.nbastream.ga/p/soccer4.html
 PREMIER-LEAGUE         : Brighton & Hove Albion vs Crystal Palace  | http://www.nbastream.ga/p/soccer5.html
-CHAMPIONSHIP           : Sunderland vs Sheffield United	           | http://www.nbastream.ga/p/soccer6.html
-UEFA-CHAMPIONS-LEAGUE  : Real Madrid vs Liverpool	                 | http://www.nbastream.ga/p/soccer8.html
-UEFA-CHAMPIONS-LEAGUE  : Napoli vs Eintracht Frankfurt	           | http://www.nbastream.ga/p/soccer9.html
+CHAMPIONSHIP           : Sunderland vs Sheffield United            | http://www.nbastream.ga/p/soccer6.html
+UEFA-CHAMPIONS-LEAGUE  : Real Madrid vs Liverpool                  | http://www.nbastream.ga/p/soccer8.html
+UEFA-CHAMPIONS-LEAGUE  : Napoli vs Eintracht Frankfurt             | http://www.nbastream.ga/p/soccer9.html
 
 
 _________________________________________________________________________
                                 [NBA]
 
 NBA : Cleveland Cavaliers vs Philadelphia 76ers | http://www.nbastream.ga/p/nba1_12.html
-NBA : Miami Heat vs Memphis Grizzlies	          | http://www.nbastream.ga/p/nba2_12.html
-NBA : Chicago Bulls vs Sacramento Kings	        | http://www.nbastream.ga/p/nba3_12.html
-NBA : Houston Rockets vs Los Angeles Lakers	    | http://www.nbastream.ga/p/nba4_12.html
-NBA : Minnesota Timberwolves vs Boston Celtics	| http://www.nbastream.ga/p/nba5_12.html
-NBA : San Antonio Spurs vs Dallas Mavericks	    | http://www.nbastream.ga/p/nba6_12.html
-NBA : LA Clippers vs Golden State Warriors	    | http://www.nbastream.ga/p/nba7_15.html
+NBA : Miami Heat vs Memphis Grizzlies           | http://www.nbastream.ga/p/nba2_12.html
+NBA : Chicago Bulls vs Sacramento Kings         | http://www.nbastream.ga/p/nba3_12.html
+NBA : Houston Rockets vs Los Angeles Lakers     | http://www.nbastream.ga/p/nba4_12.html
+NBA : Minnesota Timberwolves vs Boston Celtics  | http://www.nbastream.ga/p/nba5_12.html
+NBA : San Antonio Spurs vs Dallas Mavericks     | http://www.nbastream.ga/p/nba6_12.html
+NBA : LA Clippers vs Golden State Warriors      | http://www.nbastream.ga/p/nba7_15.html
 
 
 ____________________________________________________________________________
                                 [NHL]
 
-NHL : Washington Capitals vs Buffalo Sabres	    | http://www.nbastream.ga/p/nhl1_12.html
-NHL : Toronto Maple Leafs vs Colorado Avalanche	| http://www.nbastream.ga/p/nhl2_12.html
-NHL : St. Louis Blues vs Minnesota Wild	        | http://www.nbastream.ga/p/nhl3_12.html
-NHL : Anaheim Ducks vs New York Islanders	      | http://www.nbastream.ga/p/nhl4_12.html
+NHL : Washington Capitals vs Buffalo Sabres     | http://www.nbastream.ga/p/nhl1_12.html
+NHL : Toronto Maple Leafs vs Colorado Avalanche | http://www.nbastream.ga/p/nhl2_12.html
+NHL : St. Louis Blues vs Minnesota Wild         | http://www.nbastream.ga/p/nhl3_12.html
+NHL : Anaheim Ducks vs New York Islanders       | http://www.nbastream.ga/p/nhl4_12.html
 
 
 _____________________________________________________________________________
                                 [MLB]
 
-MLB : Boston Red Sox vs Tampa Bay Rays	        | http://www.nbastream.ga/p/mlb1.html
+MLB : Boston Red Sox vs Tampa Bay Rays          | http://www.nbastream.ga/p/mlb1.html
 MLB : New York Yankees vs Philadelphia Phillies | http://www.nbastream.ga/p/mlb2.html
-MLB : Toronto Blue Jays vs Pittsburgh Pirates	  | http://www.nbastream.ga/p/mlb3.html
-MLB : New York Mets vs St. Louis Cardinals	    | http://www.nbastream.ga/p/mlb4.html
-MLB : Cincinnati Reds vs Chicago Cubs	          | http://www.nbastream.ga/p/mlb5.html
-MLB : Los Angeles Dodgers vs Colorado Rockies	  | http://www.nbastream.ga/p/mlb6.html
-MLB : Arizona Diamondbacks vs Milwaukee Brewers	| http://www.nbastream.ga/p/mlb7.html
+MLB : Toronto Blue Jays vs Pittsburgh Pirates   | http://www.nbastream.ga/p/mlb3.html
+MLB : New York Mets vs St. Louis Cardinals      | http://www.nbastream.ga/p/mlb4.html
+MLB : Cincinnati Reds vs Chicago Cubs           | http://www.nbastream.ga/p/mlb5.html
+MLB : Los Angeles Dodgers vs Colorado Rockies   | http://www.nbastream.ga/p/mlb6.html
+MLB : Arizona Diamondbacks vs Milwaukee Brewers | http://www.nbastream.ga/p/mlb7.html
 .................................................................................
