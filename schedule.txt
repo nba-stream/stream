@@ -1,45 +1,59 @@
 ............................................................................
                                 [SOCCER]
 
-UEFA-YOUTH-LEAGUE      : AZ U19 vs Real Madrid U19                 | http://www.nbastream.ga/p/soccer1.html
-UEFA-YOUTH-LEAGUE      : Borussia Dortmund U19 vs Hajduk Split U19 | http://www.nbastream.ga/p/soccer3_15.html
-UEFA-CONFERENCE-LEAGUE : Istanbul Basaksehir vs Gent               | http://www.nbastream.ga/p/soccer2.html
-PREMIER-LEAGUE         : Southampton vs Brentford                  | http://www.nbastream.ga/p/soccer4.html
-PREMIER-LEAGUE         : Brighton & Hove Albion vs Crystal Palace  | http://www.nbastream.ga/p/soccer5.html
-CHAMPIONSHIP           : Sunderland vs Sheffield United            | http://www.nbastream.ga/p/soccer6.html
-UEFA-CHAMPIONS-LEAGUE  : Real Madrid vs Liverpool                  | http://www.nbastream.ga/p/soccer8.html
-UEFA-CHAMPIONS-LEAGUE  : Napoli vs Eintracht Frankfurt             | http://www.nbastream.ga/p/soccer9.html
+UEFA-EUROPA-LEAGUE	   : Freiburg vs Juventus	               | http://www.nbastream.ga/p/soccer1.html
+UEFA-EUROPA-LEAGUE	   : Fenerbahce vs Sevilla	               | http://www.nbastream.ga/p/soccer3_15.html
+UEFA-EUROPA-LEAGUE	   : Real Betis vs Manchester United       | http://www.nbastream.ga/p/soccer2.html
+UEFA-EUROPA-LEAGUE	   : Feyenoord vs Shakhtar Donetsk	       | http://www.nbastream.ga/p/soccer4.html
+UEFA-CONFERENCE-LEAGUE : Sivasspor vs Fiorentina	           | http://www.nbastream.ga/p/soccer5.html
+UEFA-CONFERENCE-LEAGUE : Djurgården vs Lech Poznań	           | http://www.nbastream.ga/p/soccer6.html
+UEFA-CONFERENCE-LEAGUE : Slovan Bratislava vs Basel            | http://www.nbastream.ga/p/soccer8.html
+UEFA-EUROPA-LEAGUE	   : Union SaintvsGilloise vs Union Berlin | http://www.nbastream.ga/p/soccer9.html
+UEFA-EUROPA-LEAGUE	   : Ferencvaros vs Bayer Leverkusen	   | 
+UEFA-EUROPA-LEAGUE	   : Arsenal vs Sporting Lisbon	           |
+UEFA-EUROPA-LEAGUE	   : Real Sociedad vs Roma	               | 
+UEFA-CONFERENCE-LEAGUE : AZ vs Lazio	                       | 
+UEFA-CONFERENCE-LEAGUE : West Ham United vs AEK Larnaca	       | 
+UEFA-CONFERENCE-LEAGUE : Nice vs Sheriff	                   | 
 
 
 _________________________________________________________________________
                                 [NBA]
 
-NBA : Cleveland Cavaliers vs Philadelphia 76ers | http://www.nbastream.ga/p/nba1_12.html
-NBA : Miami Heat vs Memphis Grizzlies           | http://www.nbastream.ga/p/nba2_12.html
-NBA : Chicago Bulls vs Sacramento Kings         | http://www.nbastream.ga/p/nba3_12.html
-NBA : Houston Rockets vs Los Angeles Lakers     | http://www.nbastream.ga/p/nba4_12.html
-NBA : Minnesota Timberwolves vs Boston Celtics  | http://www.nbastream.ga/p/nba5_12.html
-NBA : San Antonio Spurs vs Dallas Mavericks     | http://www.nbastream.ga/p/nba6_12.html
-NBA : LA Clippers vs Golden State Warriors      | http://www.nbastream.ga/p/nba7_15.html
+NBA : Detroit Pistons vs Denver Nuggets	       | http://www.nbastream.ga/p/nba1_12.html
+NBA : Brooklyn Nets vs Sacramento Kings	       | http://www.nbastream.ga/p/nba2_12.html
+NBA : Toronto Raptors vs Oklahoma City Thunder | http://www.nbastream.ga/p/nba3_12.html
+NBA : Milwaukee Bucks vs Indiana Pacers	       | http://www.nbastream.ga/p/nba4_12.html
+NBA : Minnesota Timberwolves vs Boston Celtics | http://www.nbastream.ga/p/nba5_12.html
+NBA : San Antonio Spurs vs Dallas Mavericks    | http://www.nbastream.ga/p/nba6_12.html
+NBA : Phoenix Suns vs Orlando Magic	           | http://www.nbastream.ga/p/nba7_15.html
 
 
 ____________________________________________________________________________
                                 [NHL]
 
-NHL : Washington Capitals vs Buffalo Sabres     | http://www.nbastream.ga/p/nhl1_12.html
-NHL : Toronto Maple Leafs vs Colorado Avalanche | http://www.nbastream.ga/p/nhl2_12.html
-NHL : St. Louis Blues vs Minnesota Wild         | http://www.nbastream.ga/p/nhl3_12.html
-NHL : Anaheim Ducks vs New York Islanders       | http://www.nbastream.ga/p/nhl4_12.html
+NHL : Ottawa Senators vs Colorado Avalanche	     | http://www.nbastream.ga/p/nhl1_12.html
+NHL : Florida Panthers vs Montréal Canadiens	 | http://www.nbastream.ga/p/nhl2_12.html
+NHL : New York Rangers vs Pittsburgh Penguins    | http://www.nbastream.ga/p/nhl3_12.html
+NHL : New Jersey Devils vs Tampa Bay Lightning   | http://www.nbastream.ga/p/nhl4_12.html
+NHL : Winnipeg Jets vs Boston Bruins		     |
+NHL : Edmonton Oilers vs Dallas Stars		     |
+NHL : Vegas Golden Knights vs Calgary Flames     |
+NHL : Arizona Coyotes vs Vancouver Canucks       |
+NHL : Los Angeles Kings vs Columbus Blue Jackets |
+NHL : San Jose Sharks vs Seattle Kraken		     |
+
+
 
 
 _____________________________________________________________________________
                                 [MLB]
 
-MLB : Boston Red Sox vs Tampa Bay Rays          | http://www.nbastream.ga/p/mlb1.html
-MLB : New York Yankees vs Philadelphia Phillies | http://www.nbastream.ga/p/mlb2.html
-MLB : Toronto Blue Jays vs Pittsburgh Pirates   | http://www.nbastream.ga/p/mlb3.html
-MLB : New York Mets vs St. Louis Cardinals      | http://www.nbastream.ga/p/mlb4.html
-MLB : Cincinnati Reds vs Chicago Cubs           | http://www.nbastream.ga/p/mlb5.html
-MLB : Los Angeles Dodgers vs Colorado Rockies   | http://www.nbastream.ga/p/mlb6.html
+MLB : St. Louis Cardinals vs Houston Astros	    | http://www.nbastream.ga/p/mlb1.html
+MLB : Minnesota Twins vs Tampa Bay Rays	        | http://www.nbastream.ga/p/mlb2.html
+MLB : Tampa Bay Rays vs Atlanta Braves	        | http://www.nbastream.ga/p/mlb3.html
+MLB : Chicago Cubs vs Arizona Diamondbacks	    | http://www.nbastream.ga/p/mlb4.html
+MLB : Milwaukee Brewers vs Los Angeles Angels   | http://www.nbastream.ga/p/mlb5.html
+MLB : Los Angeles Dodgers vs Texas Rangers      | http://www.nbastream.ga/p/mlb6.html
 MLB : Arizona Diamondbacks vs Milwaukee Brewers | http://www.nbastream.ga/p/mlb7.html
 .................................................................................
