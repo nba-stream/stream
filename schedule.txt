@@ -9,12 +9,12 @@ UEFA-CONFERENCE-LEAGUE : Sivasspor vs Fiorentina	           | http://www.nbastre
 UEFA-CONFERENCE-LEAGUE : Djurgården vs Lech Poznań	           | http://www.nbastream.ga/p/soccer6.html
 UEFA-CONFERENCE-LEAGUE : Slovan Bratislava vs Basel            | http://www.nbastream.ga/p/soccer8.html
 UEFA-EUROPA-LEAGUE	   : Union SaintvsGilloise vs Union Berlin | http://www.nbastream.ga/p/soccer9.html
-UEFA-EUROPA-LEAGUE	   : Ferencvaros vs Bayer Leverkusen	   | 
-UEFA-EUROPA-LEAGUE	   : Arsenal vs Sporting Lisbon	           |
-UEFA-EUROPA-LEAGUE	   : Real Sociedad vs Roma	               | 
-UEFA-CONFERENCE-LEAGUE : AZ vs Lazio	                       | 
-UEFA-CONFERENCE-LEAGUE : West Ham United vs AEK Larnaca	       | 
-UEFA-CONFERENCE-LEAGUE : Nice vs Sheriff	                   | 
+UEFA-EUROPA-LEAGUE	   : Ferencvaros vs Bayer Leverkusen	   | http://www.nbastream.ga/p/soccer10.html
+UEFA-EUROPA-LEAGUE	   : Arsenal vs Sporting Lisbon	           | http://www.nbastream.ga/p/soccer11.html
+UEFA-EUROPA-LEAGUE	   : Real Sociedad vs Roma	               | http://www.nbastream.ga/p/soccer12.html
+UEFA-CONFERENCE-LEAGUE : AZ vs Lazio	                       | http://www.nbastream.ga/p/soccer13.html
+UEFA-CONFERENCE-LEAGUE : West Ham United vs AEK Larnaca	       | http://www.nbastream.ga/p/soccer14.html
+UEFA-CONFERENCE-LEAGUE : Nice vs Sheriff	                   | http://www.nbastream.ga/p/soccer15.html
 
 
 _________________________________________________________________________
