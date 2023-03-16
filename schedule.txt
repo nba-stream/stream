@@ -24,8 +24,6 @@ NBA : Detroit Pistons vs Denver Nuggets	       | http://www.nbastream.ga/p/nba1_
 NBA : Brooklyn Nets vs Sacramento Kings	       | http://www.nbastream.ga/p/nba2_12.html
 NBA : Toronto Raptors vs Oklahoma City Thunder | http://www.nbastream.ga/p/nba3_12.html
 NBA : Milwaukee Bucks vs Indiana Pacers	       | http://www.nbastream.ga/p/nba4_12.html
-NBA : Minnesota Timberwolves vs Boston Celtics | http://www.nbastream.ga/p/nba5_12.html
-NBA : San Antonio Spurs vs Dallas Mavericks    | http://www.nbastream.ga/p/nba6_12.html
 NBA : Phoenix Suns vs Orlando Magic	           | http://www.nbastream.ga/p/nba7_15.html
 
 
@@ -36,12 +34,12 @@ NHL : Ottawa Senators vs Colorado Avalanche	     | http://www.nbastream.ga/p/nhl
 NHL : Florida Panthers vs Montréal Canadiens	 | http://www.nbastream.ga/p/nhl2_12.html
 NHL : New York Rangers vs Pittsburgh Penguins    | http://www.nbastream.ga/p/nhl3_12.html
 NHL : New Jersey Devils vs Tampa Bay Lightning   | http://www.nbastream.ga/p/nhl4_12.html
-NHL : Winnipeg Jets vs Boston Bruins		     |
-NHL : Edmonton Oilers vs Dallas Stars		     |
-NHL : Vegas Golden Knights vs Calgary Flames     |
-NHL : Arizona Coyotes vs Vancouver Canucks       |
-NHL : Los Angeles Kings vs Columbus Blue Jackets |
-NHL : San Jose Sharks vs Seattle Kraken		     |
+NHL : Winnipeg Jets vs Boston Bruins		     | http://www.nbastream.ga/p/nhl5_12.html
+NHL : Edmonton Oilers vs Dallas Stars		     | http://www.nbastream.ga/p/nhl6_12.html
+NHL : Vegas Golden Knights vs Calgary Flames     | http://www.nbastream.ga/p/nhl7_12.html
+NHL : Arizona Coyotes vs Vancouver Canucks       | http://www.nbastream.ga/p/nhl8_12.html
+NHL : Los Angeles Kings vs Columbus Blue Jackets | http://www.nbastream.ga/p/nhl9_16.html
+NHL : San Jose Sharks vs Seattle Kraken		     | http://www.nbastream.ga/p/nhl10_16.html
 
 
 
