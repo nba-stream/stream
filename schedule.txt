@@ -31,7 +31,7 @@ ____________________________________________________________________________
                                 [NHL]
 
 NHL : Ottawa Senators vs Colorado Avalanche      | http://www.nbastream.ga/p/nhl1_12.html
-NHL : Florida Panthers vs Montréal Canadiens	   | http://www.nbastream.ga/p/nhl2_12.html
+NHL : Florida Panthers vs Montréal Canadiens     | http://www.nbastream.ga/p/nhl2_12.html
 NHL : New York Rangers vs Pittsburgh Penguins    | http://www.nbastream.ga/p/nhl3_12.html
 NHL : New Jersey Devils vs Tampa Bay Lightning   | http://www.nbastream.ga/p/nhl4_12.html
 NHL : Winnipeg Jets vs Boston Bruins             | http://www.nbastream.ga/p/nhl5_12.html
