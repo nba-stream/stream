@@ -76,27 +76,9 @@ let display = document.querySelector(".display");
         <br>`;
 
         function copy(cid) {
-          let url = "http://www.cr7streams.ml/p/nhl" + cid + "_26.html";
+          let url = "http://www.cr7streams.ml/p/nhl" + cid + ".html";
 
-          if (url === "http://www.cr7streams.ml/p/nhl7_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl7.html";
-          }
 
-          if (url === "http://www.cr7streams.ml/p/nhl12_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl12_11.html";
-          }
-
-          if (url === "http://www.cr7streams.ml/p/nhl13_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl13_11.html";
-          }
-
-          if (url === "http://www.cr7streams.ml/p/nhl14_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl14_11.html";
-          }
-
-          if (url === "http://www.cr7streams.ml/p/nhl15_26.html") {
-            url = "http://www.cr7streams.ml/p/nhl15_11.html";
-          }
 
           navigator.clipboard.writeText(url);
         }
